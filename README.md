@@ -1,4 +1,4 @@
-### Hi there, I'm Kateryna👋
+# Hi there, I'm Kateryna👋
 
 I am a Frontend JavaScript Developer. I am passionate about technologies and love to learn new things.
 
