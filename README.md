@@ -15,4 +15,4 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
-## 🚀 Watch my portfolio [portfolio-belchynska](https://belchynska.netlify.app/)
+## 🚀 Watch my [portfolio](https://belchynska.netlify.app/)
